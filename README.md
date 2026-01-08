@@ -42,7 +42,7 @@ IE-GY-9113-Data-Analytics/
 
 ## 📊 Datasets
 
-All datasets used in this course are stored in the `datasets/` directory. Each dataset has its own folder containing:
+All datasets used in this course are stored in the `challenges/week[x]/` directory. Each dataset has its own folder containing:
 - The data file(s) (`.csv`, `.xlsx`, etc.)
 - A README with variable descriptions, sources, and usage notes
 
