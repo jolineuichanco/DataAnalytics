@@ -20,17 +20,12 @@ This repository contains all datasets, challenge assignments, code examples, and
 ```
 IE-GY-9113-Data-Analytics/
 ├── README.md                          # This file
-├── datasets/                          # All course datasets
-│   ├── week1_student_performance/
-│   │   ├── student_performance.csv
-│   │   └── README.md                  # Dataset documentation
-│   ├── week2_[dataset_name]/
-│   └── projects/
 ├── challenges/                        # Weekly challenge assignments
 │   ├── submission_guidelines.md       # Instructions on submissions
 │   ├── week1_student_success/
 │   │   ├── Week1_Challenge.pdf
-│   │   └── README.md
+│   │   ├── student_performance.csv    # Dataset
+│   │   └── README.md                  # Dataset documentation
 │   ├── week4_statistical_tests/
 │   └── ...
 ├── code_examples/                     # Instructor code demonstrations
