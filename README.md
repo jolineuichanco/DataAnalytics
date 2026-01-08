@@ -27,6 +27,7 @@ IE-GY-9113-Data-Analytics/
 │   ├── week2_[dataset_name]/
 │   └── projects/
 ├── challenges/                        # Weekly challenge assignments
+│   ├── submission_guidelines/
 │   ├── week1_student_success/
 │   │   ├── Week1_Challenge.pdf
 │   │   └── README.md
