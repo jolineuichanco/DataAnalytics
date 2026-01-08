@@ -22,15 +22,10 @@ IE-GY-9113-Data-Analytics/
 ├── README.md                          # This file
 ├── challenges/                        # Weekly challenge assignments
 │   ├── submission_guidelines.md       # Instructions on submissions
-│   ├── week1_student_success/
+│   ├── week1/
 │   │   ├── Week1_Challenge.pdf
 │   │   ├── student_performance.csv    # Dataset
 │   │   └── README.md                  # Dataset documentation
-│   ├── week4_statistical_tests/
-│   └── ...
-├── code_examples/                     # Instructor code demonstrations
-│   ├── week1_pandas_basics/
-│   ├── week2_data_cleaning/
 │   └── ...
 └── projects/                          # Course project guidelines
     ├── project1_guidelines.pdf
@@ -66,7 +61,7 @@ All datasets used in this course are stored in the `challenges/week[x]/` directo
 import pandas as pd
 
 # Replace with actual raw GitHub URL
-url = 'https://raw.githubusercontent.com/jolineuichanco/DataAnalytics/main/datasets/week1_student_performance/student_performance.csv'
+url = 'https://raw.githubusercontent.com/jolineuichanco/DataAnalytics/main/challenges/week1/student_performance.csv'
 df = pd.read_csv(url)
 ```
 
