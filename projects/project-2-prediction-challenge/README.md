@@ -67,7 +67,7 @@ Presentations should be **15 minutes** and include:
 
 ### 📊 [Data for Model Training](https://drive.google.com/file/d/127K7mX2zsxZ1sxdLsJPkj4yNXs4RhqBp/view?usp=sharing)
 
-### 📊 [Data for Scoring and Submission Process](https://drive.google.com/drive/folders/1h7ThlBk73BRfdOmQowXvjzxfpx8G-m8k)
+### 📊 [Data for Scoring and Submission Process](https://drive.google.com/drive/folders/1eK2cD0lYrzr5dhZHSzFZdFTtdi7RavSu)
 
 ---
 
