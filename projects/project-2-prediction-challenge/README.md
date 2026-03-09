@@ -34,7 +34,7 @@ At the end, teams should complete and submit the following:
 
 1. **Data Review, EDA, and Feature Engineering:** Your approach for understanding, preparing, and transforming data pre-modeling.
 2. **A 15-min Presentation:** Summary of the business problem, work completed, results, and recommendations.
-3. **Model Generation in R:** Development of models, tuning, and selection of a best model.
+3. **Model Generation in Python:** Development of models, tuning, and selection of a best model.
 4. **Predictions:** Predictions on a set of new users. Visualize results as a histogram. Use this file name: `team#_submission.csv`
    > 💡 *TIP: Don't change the layout of the submission file, only add your predictions.*
 
