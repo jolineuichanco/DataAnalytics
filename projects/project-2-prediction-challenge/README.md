@@ -32,10 +32,10 @@ This project is competition style, asking teams to build a predictive model, tun
 
 At the end, teams should complete and submit the following:
 
-1. **Data Review, EDA, and Feature Engineering:** Your approach for understanding, preparing, and transforming data pre-modeling.
-2. **A 15-min Presentation:** Summary of the business problem, work completed, results, and recommendations.
-3. **Model Generation in Python:** Development of models, tuning, and selection of a best model.
-4. **Predictions:** Predictions on a set of new users. Visualize results as a histogram. Use this file name: `team#_submission.csv`
+1. **Data Review, EDA, and Feature Engineering:** Your approach for understanding, preparing, and transforming data pre-modeling
+2. **A 15-min Presentation:** Summary of the business problem, work completed, results, and recommendations. Submit slides (see "Presentation Expectations" below).
+3. **Model Generation in Python:** Development of models, tuning, and selection of a best model. Submit as ipynb file.
+4. **Predictions:** Predictions on a set of new users. Visualize results as a histogram. Submit csv. Use this file name: `team#_submission.csv`
    > 💡 *TIP: Don't change the layout of the submission file, only add your predictions.*
 
 ---
@@ -54,12 +54,13 @@ At the end, teams should complete and submit the following:
 
 Presentations should be **15 minutes** and include:
 
-- Business problem you are trying to solve
-- Your approach pre-modeling: (1) Data review, (2) EDA, and (3) Feature Engineering
-- Review of modeling attempts *(please use a table to summarize attempts)*
-- Selected model and features of importance
-- Model interpretation
-- Implications and recommendations
+- Summary slide: Business problem and a preview of your insights and recommendation
+- EDA insights and feature engineering: Present 2-3 EDA findings that are specific to the angle your team pursued. If applicable, pair it with the feature engineering decision it inspired ("We observed X, so we created Y, and it matters because Z"). The full gallery of EDA can be reserved for the Supplementary Appendix.
+- Review of modeling attempts *(please use a table to summarize attempts)* A "model" is a combination of a model family (e.g., logistic regression vs decision tree), features, and hyperparameters. The table should show how each model compares with respect to performance. Briefly narrate the progression: what did you try first, what improved performance, what didn't help, and why you moved from one approach to the next.
+- Selected model and features of importance: Identify your final model and explain why you selected it. Show the feature importance plot. 
+- Model interpretation: Are there any insights that the model reveals?
+- Implications and recommendations: Include concrete, actionable recommendations. Mention any caveats or limitations to your recommendation.
+- Supplementary Appendix (not presented): (1) Data review, (2) Data Cleaning Details, (3) Full EDA gallery, (4) Prediction Histogram
 
 ---
 
