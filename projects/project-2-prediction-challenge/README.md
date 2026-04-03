@@ -32,7 +32,7 @@ This project is competition style, asking teams to build a predictive model, tun
 
 At the end, teams should complete and submit the following:
 
-1. **Data Review, EDA, and Feature Engineering:** Your approach for understanding, preparing, and transforming data pre-modeling. Submit as a pdf report.
+1. **Data Review, EDA, and Feature Engineering:** A written report (in pdf) that describes your pre-modeling process: your observations from your data review and EDA, and a documentation of what you did to prepare the data, such as any data transformation and feature engineering
 2. **A 15-min Presentation:** Summary of the business problem, results, and recommendations. Submit slides (see "Presentation Expectations" below).
 3. **Model Generation in Python:** Development of models, tuning, and selection of a best model. Submit as ipynb file.
 4. **Predictions:** Predictions on a set of new users. Visualize results as a histogram (include in your slides). Submit csv. Use this file name: `team#_submission.csv`
